@@ -21,7 +21,7 @@ a {
 
 header {
     background-color: #15848F;
-    color: #ffffff;
+    color: #c3c;
     font-size: 30px;
     height: 84px;
     line-height: 64px;
@@ -91,7 +91,7 @@ legend {
 }
 
 .header-help a {
-    color: #fff;
+    color: #e13027;
 }
 
 ul.pagination li a {
@@ -295,6 +295,7 @@ pre {
     height: 85%;
     position: relative;
     display: table;
+    background-color: #c3c;
 }
 
 .home h1 {
@@ -308,7 +309,7 @@ pre {
 }
 
 .home header h1 {
-    color: #fff;
+    color: #cf2a0e;
 }
 
 #content {
